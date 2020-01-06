@@ -1,0 +1,11 @@
+/Users/codenation/Documents/mastersWork/dotnet/operators/bin/Debug/netcoreapp3.0/operators
+/Users/codenation/Documents/mastersWork/dotnet/operators/bin/Debug/netcoreapp3.0/operators.deps.json
+/Users/codenation/Documents/mastersWork/dotnet/operators/bin/Debug/netcoreapp3.0/operators.runtimeconfig.json
+/Users/codenation/Documents/mastersWork/dotnet/operators/bin/Debug/netcoreapp3.0/operators.runtimeconfig.dev.json
+/Users/codenation/Documents/mastersWork/dotnet/operators/bin/Debug/netcoreapp3.0/operators.dll
+/Users/codenation/Documents/mastersWork/dotnet/operators/bin/Debug/netcoreapp3.0/operators.pdb
+/Users/codenation/Documents/mastersWork/dotnet/operators/obj/Debug/netcoreapp3.0/operators.csprojAssemblyReference.cache
+/Users/codenation/Documents/mastersWork/dotnet/operators/obj/Debug/netcoreapp3.0/operators.AssemblyInfoInputs.cache
+/Users/codenation/Documents/mastersWork/dotnet/operators/obj/Debug/netcoreapp3.0/operators.AssemblyInfo.cs
+/Users/codenation/Documents/mastersWork/dotnet/operators/obj/Debug/netcoreapp3.0/operators.dll
+/Users/codenation/Documents/mastersWork/dotnet/operators/obj/Debug/netcoreapp3.0/operators.pdb
